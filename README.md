@@ -73,7 +73,7 @@ wget https://go.dev/dl/go1.22.3.linux-amd64.tar.gz
 sudo tar -C /usr/local -xzf go1.22.3.linux-amd64.tar.gz
 echo 'export PATH=/usr/local/go/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
-cd ~/helrm
+cd ~/emb
 go version # go version go1.22.3 linux/amd64
 ```
 
