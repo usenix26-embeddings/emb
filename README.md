@@ -1,6 +1,6 @@
 # HE-LRM: Efficient Private Embedding Lookups for Neural Inference Using Fully Homomorphic Encryption
 
-This anonymous repository contains the code to run the HELRM architecture under FHE.
+This anonymous repository contains the code to run the HE-LRM architecture under FHE.
 ```
 .
 ├── experiments
