@@ -51,8 +51,8 @@ cd experiments/moai_cp_mm
 
 Compile and run for various sequence lengths, hidden dimensions and vocabulary size.
 ```bash
-go build -o scalar_mult_example .
-./scalar_mult_example --seq_len=5 --d=10 --V=12 --runs=1
+go build -o CP_MM .
+./CP_MM --seq_len=5 --d=10 --V=12 --runs=1
 ```
 
 ## Installation
